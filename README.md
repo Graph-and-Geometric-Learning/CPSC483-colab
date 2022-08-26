@@ -1,5 +1,13 @@
-test
+## CPSC483-colab
+
+Course website: https://graph-and-geometric-learning.github.io/CPSC483-website/
 
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/huangtinglin/test_colab/blob/main/colab0.ipynb#scrollTo=zVsRRzo5kgHg)
+### Colab List
+
+* Colab0: Introduction of PyTorch - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Graph-and-Geometric-Learning/CPSC483-colab/blob/main/CPSC483_colab0.ipynb)
+
+* Colab1: 
+
+* Colab2:
