@@ -1,6 +1,9 @@
 ## CPSC483-colab
 
-Course website: https://graph-and-geometric-learning.github.io/CPSC483-website/
+Course website
+
+* https://graph-and-geometric-learning.github.io/CPSC483-website/
+* https://graph-and-geometric-learning.github.io/cpsc483-583-website-23fall
 
 
 
